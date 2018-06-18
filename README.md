@@ -1,3 +1,4 @@
+![picture alt](http://static.weboffice.uwa.edu.au/visualid/core-rebrand/img/uwacrest/uwacrest-blue.svg)
 # CITS5501-Project-Django-Test-Cases
 Project submission for CITS5501 during semester 1 of 2018 at the University of Western Australia
 
